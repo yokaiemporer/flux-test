@@ -24,7 +24,7 @@ kubectl get nodes
 ```
 kubectl create ns flux
 
-export GHUSER = "marcel-dempers"
+export GHUSER = "yokaiemporer"
 fluxctl install \
 --git-user=${GHUSER} \
 --git-email=${GHUSER}@users.noreply.github.com \
